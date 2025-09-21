@@ -1,0 +1,89 @@
+# Virtual environments
+dd-env/
+venv/
+env/
+ENV/
+
+# DeepDanbooru project files (users should download separately)
+deepdanbooru_project/
+model/
+models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
+
+# Application specific
+*.h5
+*.ckpt
+*.pth
+
+# Database
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.secrets
+
+# Build outputs
+build/
+dist/
+*.exe
+*.msi
+*.dmg
+*.app
+
+# Coverage reports
+.coverage
+htmlcov/
+.coverage.*
